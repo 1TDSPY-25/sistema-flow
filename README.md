@@ -9,6 +9,7 @@
 <li>[ X ] FEATURE / Criar o projeto (VITE+REACT+TS) do zero / prof.Alexandre </li>
 <li>[ X ] FEATURE / Realizar a lista de tarefas no README.md / prof.Alexandre </li>
 <li>[ X ] FEATURE / Limpar o boiler-plate e instalar os pacotes react-router-dom, tailwindcss, json-server, react-icons, react-use-form/ Pamella - Camilo - Matsubara </li>
+<li>[ X ] FEATURE / Criar os componentes principais dentro dos padrões estabelecidos com nomes e pastas Cabecalho[Menu], Rodape e Menu /  GuilhermeS - LucasG - Geovanne  </li>
 
 	<li> ...</li>
 </ul>
@@ -18,7 +19,7 @@
 <ul style="color:orange">
 
 <span style="color:red">DEADLINE [22:17]</span>
-<li>[   ] FEATURE / Criar os componentes principais dentro dos padrões estabelecidos com nomes e pastas Cabecalho[Menu], Rodape e Menu /  GuilhermeS - LucasG - Geovanne  </li><span style="color:red">DEADLINE [22:30]</span>
+<span style="color:red">DEADLINE [22:30]</span>
 <li>[   ] FEATURE / Criar estrutura de rotas e registrar estas rotas no main, lembrar os dev do menu de quais rotas devem criar, as rotas inicias devem ser: Home, Login e Cadastro. /  João Semente - RodrigoT - Christian </li><span style="color:red">DEADLINE [22:35]</span>
 <li>[   ] FEATURE / Criar uma api com json-server(criar o arquivo db.json, configurar o package.json), criar o endpoint de nome usuarios, os dados do endpoint são [id,nome,nomeUser,email,avatar]/  Cleidy - Yuri - Vendrameto </li><span style="color:red">DEADLINE [22:40]</span>
    <li> ...</li>
