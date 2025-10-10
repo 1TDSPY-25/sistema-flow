@@ -24,7 +24,7 @@
 ## EM DESENVOLVIMENTO:
 <ul style="color:yellow">
 <li>[   ] FEATURE / Criar uma api com json-server(criar o arquivo db.json, configurar o package.json), criar o endpoint de nome usuarios, os dados do endpoint são [id,nome,nomeUser,email,avatar]/  Cleidy - Yuri - Vendrameto </li><span style="color:red">DEADLINE [22:40]</span>
-<li>[   ] FEATURE / Criação de conteúdo dinâmico na Home - sistema de notícias(Colocar uma api publica trocando cards de noticias)Peguem exemplos em sites como UOL, TERRA e MSN /  ...   </li>
+<li>[   ] FEATURE / Criação de conteúdo dinâmico na Home - sistema de notícias(Colocar uma api publica trocando cards de noticias)Peguem exemplos em sites como UOL, TERRA e MSN /  Pamella - Camilo - Matsubara   </li>
 <li>[   ] FEATURE / Criar componente de Login(Criar formulário, com validação de useForms, estilizado) / Nicolas - GustavoBarrios - Vinicius    </li>
 <li>[   ] FEATURE / Criar componente de Cadastro (Criar formulário, com validação de useForms, estilizado)/  ... </li>
 
