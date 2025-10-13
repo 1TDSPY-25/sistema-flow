@@ -4,13 +4,16 @@
       "id": 1,
       "nome": "Ana",
       "nomeUser": "ana",
-      "email": "ana@email.com"
+      "email": "ana@email.com",
+      "avatar": "https://static.vecteezy.com/ti/vetor-gratis/p1/2592210-personagem-avatar-menina-aluna-gratis-vetor.jpg"
     },
     {
       "id": 2,
       "nome": "Carina",
       "nomeUser": "carina",
-      "email": "carina@email.com"
+      "email": "carina@email.com",
+      "avatar": "https://static.vecteezy.com/ti/vetor-gratis/p1/2592210-personagem-avatar-menina-aluna-gratis-vetor.jpg"
+      
     }
 ]
 }
