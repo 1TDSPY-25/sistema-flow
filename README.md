@@ -35,12 +35,10 @@
 <li>[   ] FEATURE / Criação de conteúdo dinâmico na Home - sistema de notícias(Colocar uma api publica trocando cards de noticias)Peguem exemplos em sites como UOL, TERRA e MSN /  Pamella - Camilo - Matsubara   </li>
 <li>[   ] FEATURE / Criar componente de Login(Criar formulário, com validação de useForms, estilizado) / Nicolas - GustavoBarrios - Vinicius    </li>
 <li>[   ] FEATURE / Criar componente de Cadastro (Criar formulário, com validação de useForms, estilizado)/  GuilhermeS - LucasG - Geovanne </li>
-
+<li>[   ] FEATURE / Criar o codigo do Cabeçalho utilizando de referência a imagem dentro do asserts / [ Wiclif, Gabriel Ambrosio] </li>
+<li>[   ] FEATURE / Criar o codigo do Rodapé utilizando de referência a imagem dentro do asserts / [João Semente - RodrigoT - Christian]</li>
 </ul>
 
 
 ### TEAM FREE
-- [Pamella - Camilo - Matsubara]
 - [GuilhermeS - LucasG - Geovanne]
-- [ Wiclif, Gabriel Ambrosio]
-- [João Semente - RodrigoT - Christian]
