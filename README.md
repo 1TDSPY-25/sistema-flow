@@ -23,7 +23,7 @@
 <ul style="color:orange">
 
 <li>[   ] FEATURE / Criar estrutura de rotas e registrar estas rotas no main, lembrar os dev do menu de quais rotas devem criar, as rotas inicias devem ser: Home, Login e Cadastro. /  João Semente - RodrigoT - Christian </li><span style="color:red">DEADLINE [22:35]</span>
-<li>[   ] FEATURE / Criar uma api com json-server(criar o arquivo db.json, configurar o package.json), criar o endpoint de nome usuarios, os dados do endpoint são [id,nome,nomeUser,email,avatar]/  Cleidy - Yuri - Vendrameto </li><span style="color:red">DEADLINE [22:40]</span>
+<li>[   ] FEATURE / Criar uma api com json-server(criar o arquivo db.json, configurar o package.json), criar o endpoint de nome usuarios, os dados do endpoint são [id,nome,nomeUser,email,avatar]/  Cleidy - Yuri - Vendrameto - Rafael </li><span style="color:red">DEADLINE [22:40]</span>
    <li> ...</li>
 </ul>
 
@@ -41,3 +41,4 @@
 ### TEAM FREE
 - [Pamella - Camilo - Matsubara]
 - [GuilhermeS - LucasG - Geovanne]
+- [ Wiclif, Gabriel Ambrosio]
