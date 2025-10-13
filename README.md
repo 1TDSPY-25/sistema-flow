@@ -1,7 +1,11 @@
 # FEATURES LIST:
 
 ## Todas as TAREFAS/FEATURES devem ser finalizadas.
-### Prestar atenção ao <span style="color:red">DEADLINE</span> das FEATURES. 
+## Prestar atenção ao <span style="color:red">DEADLINE</span> das FEATURES. 
+## RESPONSABILIDADES:
+### MENTORIA: PROF.ALEXANDRE
+### TECLEAD: CAMILO
+### HOMOLOGAÇÃO: [ PHIETRO / MATHEUS / BRENO ]
 
 ---
 ## IMPLEMENTADOS:
