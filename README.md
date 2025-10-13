@@ -13,6 +13,7 @@
 <li>[ X ] FEATURE / Criar o projeto (VITE+REACT+TS) do zero / prof.Alexandre </li>
 <li>[ X ] FEATURE / Realizar a lista de tarefas no README.md / prof.Alexandre </li>
 <li>[ X ] FEATURE / Criar os componentes principais dentro dos padrões estabelecidos com nomes e pastas Cabecalho[Menu], Rodape e Menu /  GuilhermeS - LucasG - Geovanne  </li>
+<li>[ X ] FEATURE / Limpar o boiler-plate e instalar os pacotes react-router-dom, tailwindcss, json-server, react-icons, react-use-form/ Pamella - Camilo - Matsubara </li> 
 
 	<li> ...</li>
 </ul>
@@ -29,7 +30,7 @@
 ---
 ## EM DESENVOLVIMENTO:
 <ul style="color:yellow">
-<li>[  ] FEATURE / Limpar o boiler-plate e instalar os pacotes react-router-dom, tailwindcss, json-server, react-icons, react-use-form/ Pamella - Camilo - Matsubara </li>(Fazer limpeza corretamente)
+
 <li>[   ] FEATURE / Criação de conteúdo dinâmico na Home - sistema de notícias(Colocar uma api publica trocando cards de noticias)Peguem exemplos em sites como UOL, TERRA e MSN /  Pamella - Camilo - Matsubara   </li>
 <li>[   ] FEATURE / Criar componente de Login(Criar formulário, com validação de useForms, estilizado) / Nicolas - GustavoBarrios - Vinicius    </li>
 <li>[   ] FEATURE / Criar componente de Cadastro (Criar formulário, com validação de useForms, estilizado)/  GuilhermeS - LucasG - Geovanne </li>
@@ -39,4 +40,4 @@
 
 ### TEAM FREE
 - [Pamella - Camilo - Matsubara]
-- [GuilhermeS - LucasG - Geovanne - Christian]
+- [GuilhermeS - LucasG - Geovanne]
