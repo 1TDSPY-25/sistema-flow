@@ -39,4 +39,4 @@
 
 ### TEAM FREE
 - [Pamella - Camilo - Matsubara]
-- [GuilhermeS - LucasG - Geovanne]
+- [GuilhermeS - LucasG - Geovanne - Christian]
