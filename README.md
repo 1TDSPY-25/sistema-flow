@@ -36,7 +36,7 @@
 <li>[   ] FEATURE / Criação de conteúdo dinâmico na Home - sistema de notícias(Colocar uma api publica trocando cards de noticias)Peguem exemplos em sites como UOL, TERRA e MSN /  Pamella - Camilo - Matsubara   </li>
 <li>[   ] FEATURE / Criar componente de Login(Criar formulário, com validação de useForms, estilizado) / Nicolas - GustavoBarrios - Vinicius    </li>
 <li>[   ] FEATURE / Criar componente de Cadastro (Criar formulário, com validação de useForms, estilizado)/  GuilhermeS - LucasG - Geovanne </li>
-<li>[   ] FEATURE / Criar o codigo do Cabeçalho utilizando de referência a imagem dentro do asserts / [ Wiclif, Gabriel Ambrosio] </li>
+<li>[   ] FEATURE / Criar o codigo do Cabeçalho utilizando de referência a imagem dentro do asserts / [ Wiclif, Gabriel Ambrosio, Paulo] </li>
 <li>[   ] FEATURE / Criar os produtos no arquivo db.json para serem utilizados no nosso site / []</li>
 <li>[   ] FEATURE / Criar uma página aonde ira carregar os dados dos produtos e se conseguir quando clicar em compra aparecer mais 1 no carrinho usar de referencia a imagem referencia_aparecer_produtos / []</li>
 </ul>
