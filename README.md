@@ -2,7 +2,7 @@
 
 ### 👨‍🏫 **Mentoria:** Prof. Alexandre  
 ### 💻 **Tech Lead:** Camilo  
-### 🧩 **Homologação:** Phietro • Matheus • Breno  
+### 🧩 **Homologação:** Phietro • Matheus 
 
 ---
 
@@ -36,7 +36,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 
 ---
 
-## 🧪 **EM HOMOLOGAÇÃO** — *(Phietro • Matheus • Breno)*
+## 🧪 **EM HOMOLOGAÇÃO** — *(Phietro • Matheus )*
 
 <details>
 <summary><b>Verificando qualidade e funcionamento 🟠</b></summary>
