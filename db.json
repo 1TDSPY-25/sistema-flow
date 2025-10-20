@@ -2,8 +2,6 @@
    "usuarios": [
     {
       "id": "1",
-      "nome": "Ana",
-      "id": 1,
       "nomeUsuario": "Ana",
       "nomeUser": "ana",
       "email": "ana@email.com",
@@ -11,8 +9,6 @@
     },
     {
       "id": "2",
-      "nome": "Carina",
-      "id": 2,
       "nomeUsuario": "Carina",
       "nomeUser": "carina",
       "email": "carina@email.com",
@@ -21,8 +17,6 @@
 
     {
       "id": "3",
-      "nome": "Juninho",
-      "id": 3,
       "nomeUsuario": "Juninho",
       "nomeUser": "junihno",
       "email": "juninho@email.com",
@@ -31,64 +25,56 @@
 
     {
       "id": "4",
-      "nome": "Cleber",
-      "id": 4,
       "nomeUsuario": "Cleber",
       "nomeUser": "cleber",
       "email": "cleber@email.com",
       "avatar": "https://static.vecteezy.com/system/resources/previews/024/183/535/original/male-avatar-portrait-of-a-young-man-with-glasses-illustration-of-male-character-in-modern-color-style-vector.jpg"
       
     }
-],
+  ],
  
+    "produtos": [
 
-  "produtos": [
+      {
+      "id": "1",
+      "nomeProduto": "MediCure Max",
+      "precoProduto": 19.99,
+      "precoProdutoDesconto": 14.99,
+      "descricaoProduto": "Para o alívio rápido de dores musculares e tensões. Eficaz em até 10 minutos!"
+    },
 
     {
-    "id": "1",
-    "nomeProduto": "MediCure Max",
-    "precoProduto": 19.99,
-    "precoProdutoDesconto": 14.99,
-    "descricaoProduto": "Para o alívio rápido de dores musculares e tensões. Eficaz em até 10 minutos!"
-  },
+      "id": "2",
+      "nomeProduto": "ImunoShield Forte",
+      "precoProduto": 29.99,
+      "precoProdutoDesconto": 24.99,
+      "descricaoProduto": "Fortalece o sistema imunológico com a combinação de vitaminas e antioxidantes. Proteção diária!"
+    },
 
-  {
-    "id": "2",
-    "nomeProduto": "ImunoShield Forte",
-    "precoProduto": 29.99,
-    "precoProdutoDesconto": 24.99,
-    "descricaoProduto": "Fortalece o sistema imunológico com a combinação de vitaminas e antioxidantes. Proteção diária!"
-  },
+    {
+      "id": "3",
+      "nomeProduto": "CalmBreathe",
+      "precoProduto": 14.99,
+      "precoProdutoDesconto": 11.99,
+      "descricaoProduto": "Suplemento natural para reduzir o estresse e melhorar a qualidade do sono. Ideal para noites tranquilas!"
+    },
 
-  {
-    "id": "3",
-    "nomeProduto": "CalmBreathe",
-    "precoProduto": 14.99,
-    "precoProdutoDesconto": 11.99,
-    "descricaoProduto": "Suplemento natural para reduzir o estresse e melhorar a qualidade do sono. Ideal para noites tranquilas!"
-  },
+    {
+      "id": "4",
+      "nomeProduto": "VitaBoost",
+      "precoProduto": 39.99,
+      "precoProdutoDesconto": 34.99,
+      "descricaoProduto": "Multivitamínico completo para energia extra durante o dia. Combate a fadiga com ingredientes naturais."
+    },
+    
+    {
+      "id": "5",
+      "nomeProduto": "ClearSinus",
+      "precoProduto": 12.99,
+      "precoProdutoDesconto": 9.99,
+      "descricaoProduto": "Descongestionante nasal rápido e eficaz. Alívio imediato para quem sofre de sinusite e alergias."
+    },
 
-  {
-    "id": "4",
-    "nomeProduto": "VitaBoost",
-    "precoProduto": 39.99,
-    "precoProdutoDesconto": 34.99,
-    "descricaoProduto": "Multivitamínico completo para energia extra durante o dia. Combate a fadiga com ingredientes naturais."
-  },
-  
-  {
-    "id": "5",
-    "nomeProduto": "ClearSinus",
-    "precoProduto": 12.99,
-    "precoProdutoDesconto": 9.99,
-    "descricaoProduto": "Descongestionante nasal rápido e eficaz. Alívio imediato para quem sofre de sinusite e alergias."
-  }
-  ]
-
-    }
-],
- 
-    "produtos": [  
     {
         "id": "6",
         "nomeProduto": "Paracetamol 500mg",
