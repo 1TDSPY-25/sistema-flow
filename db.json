@@ -2,36 +2,75 @@
    "usuarios": [
     {
       "id": 1,
-      "nome": "Ana",
+      "nomeUsuario": "Ana",
       "nomeUser": "ana",
       "email": "ana@email.com",
       "avatar": "https://static.vecteezy.com/ti/vetor-gratis/p1/2592210-personagem-avatar-menina-aluna-gratis-vetor.jpg"
     },
     {
       "id": 2,
-      "nome": "Carina",
+      "nomeUsuario": "Carina",
       "nomeUser": "carina",
       "email": "carina@email.com",
       "avatar": "https://static.vecteezy.com/ti/vetor-gratis/p1/2592210-personagem-avatar-menina-aluna-gratis-vetor.jpg"
-      
     },
 
     {
       "id": 3,
-      "nome": "Juninho",
+      "nomeUsuario": "Juninho",
       "nomeUser": "junihno",
       "email": "juninho@email.com",
       "avatar": "https://static.vecteezy.com/system/resources/previews/024/183/535/original/male-avatar-portrait-of-a-young-man-with-glasses-illustration-of-male-character-in-modern-color-style-vector.jpg"
-      
     },
 
     {
       "id": 4,
-      "nome": "Cleber",
+      "nomeUsuario": "Cleber",
       "nomeUser": "cleber",
       "email": "cleber@email.com",
       "avatar": "https://static.vecteezy.com/system/resources/previews/024/183/535/original/male-avatar-portrait-of-a-young-man-with-glasses-illustration-of-male-character-in-modern-color-style-vector.jpg"
-      
     }
-]
+],
+ 
+    "produtos": [  
+    {
+        "id": "6",
+        "nomeProduto": "Paracetamol 500mg",
+        "precoProduto": 20.00,
+        "precoProdutoDesconto": 15.00,
+        "descricaoProduto": "Analgésico e antitérmico para alívio da dor e febre."
+    },
+
+    {
+        "id": "7",
+        "nomeProduto": "Nivea Creme Hidratante",
+        "precoProduto": 35.00,
+        "precoProdutoDesconto": 28.00,
+        "descricaoProduto": "Creme hidratante para pele seca, proporcionando suavidade e proteção."
+    },
+
+    {
+        "id": "8",
+        "nomeProduto": "Dipirona 1g",
+        "precoProduto": 18.00,
+        "precoProdutoDesconto": 12.00,
+        "descricaoProduto": "Anaçgésico e antiprético indicado para dores e febres."
+    },
+
+    {
+        "id": "9",
+        "nomeProduto": "Protetor Solar FPS 30",
+        "precoProduto": 40.00,
+        "precoProdutoDesconto": 32.00,
+        "descricaoProduto": "Protetor solar para proteção contra os raios UVA e UVB."
+    },
+
+    {
+        "id": "10",
+        "nomeProduto": "Solução Antisséptica",
+        "precoProduto": 25.00,
+        "precoProdutoDesconto": 20.00,
+        "descricaoProduto": "Uso tópico para limpeza e desinfecção de ferimentos."
+    }
+  ]
 }
