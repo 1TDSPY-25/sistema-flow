@@ -39,41 +39,44 @@
   "produtos": [
 
     {
-      "id": "1",
-      "nomeProduto": "",
-      "precoProduto": 1,
-      "precoProdutoDesconto": 1 ,
-      "descricaoProduto": ""
-      },
-    {
-      "id": "2",
-      "nomeProduto": "",
-      "precoProduto": 1,
-      "precoProdutoDesconto": 1,
-      "descricaoProduto": ""
-      },
-    {
-      "id": "3",
-      "nomeProduto": "",
-      "precoProduto": 1,
-      "precoProdutoDesconto": 1,
-      "descricaoProduto": ""
-      },
-    {
-      "id": "4",
-      "nomeProduto": "",
-      "precoProduto": 1,
-      "precoProdutoDesconto": 1,
-      "descricaoProduto": ""
-      },
-    {
-      "id": "5",
-      "nomeProduto": "",
-      "precoProduto": 1,
-      "precoProdutoDesconto": 1,
-      "descricaoProduto": ""
-      }
+    "id": "1",
+    "nomeProduto": "MediCure Max",
+    "precoProduto": 19.99,
+    "precoProdutoDesconto": 14.99,
+    "descricaoProduto": "Para o alívio rápido de dores musculares e tensões. Eficaz em até 10 minutos!"
+  },
 
+  {
+    "id": "2",
+    "nomeProduto": "ImunoShield Forte",
+    "precoProduto": 29.99,
+    "precoProdutoDesconto": 24.99,
+    "descricaoProduto": "Fortalece o sistema imunológico com a combinação de vitaminas e antioxidantes. Proteção diária!"
+  },
+
+  {
+    "id": "3",
+    "nomeProduto": "CalmBreathe",
+    "precoProduto": 14.99,
+    "precoProdutoDesconto": 11.99,
+    "descricaoProduto": "Suplemento natural para reduzir o estresse e melhorar a qualidade do sono. Ideal para noites tranquilas!"
+  },
+
+  {
+    "id": "4",
+    "nomeProduto": "VitaBoost",
+    "precoProduto": 39.99,
+    "precoProdutoDesconto": 34.99,
+    "descricaoProduto": "Multivitamínico completo para energia extra durante o dia. Combate a fadiga com ingredientes naturais."
+  },
+  
+  {
+    "id": "5",
+    "nomeProduto": "ClearSinus",
+    "precoProduto": 12.99,
+    "precoProdutoDesconto": 9.99,
+    "descricaoProduto": "Descongestionante nasal rápido e eficaz. Alívio imediato para quem sofre de sinusite e alergias."
+  }
   ]
 
 }
