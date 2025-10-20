@@ -1,5 +1,5 @@
 {
-   "usuarios": [
+  "usuarios": [
     {
       "id": "1",
       "nomeUsuario": "Ana",
@@ -14,7 +14,6 @@
       "email": "carina@email.com",
       "avatar": "https://static.vecteezy.com/ti/vetor-gratis/p1/2592210-personagem-avatar-menina-aluna-gratis-vetor.jpg"
     },
-
     {
       "id": "3",
       "nomeUsuario": "Juninho",
@@ -22,68 +21,57 @@
       "email": "juninho@email.com",
       "avatar": "https://static.vecteezy.com/system/resources/previews/024/183/535/original/male-avatar-portrait-of-a-young-man-with-glasses-illustration-of-male-character-in-modern-color-style-vector.jpg"
     },
-
     {
       "id": "4",
       "nomeUsuario": "Cleber",
       "nomeUser": "cleber",
       "email": "cleber@email.com",
       "avatar": "https://static.vecteezy.com/system/resources/previews/024/183/535/original/male-avatar-portrait-of-a-young-man-with-glasses-illustration-of-male-character-in-modern-color-style-vector.jpg"
-      
     }
-],
-
-"produtos": [
-  {
-    "id": "11",
-    "nomeProduto": "Desodorante",
-    "precoProduto": "15.90",
-    "precoProdutoDesconto": "12.90",
-    "descricaoProduto": "Desodorante antitranspirante 48h, fragrância fresca."
-  },
-  {
-    "id": "12",
-    "nomeProduto": "Creme de pentear",
-    "precoProduto": "9.50",
-    "precoProdutoDesconto": "7.99",
-    "descricaoProduto": "Creme de pentear hidratante para todos os tipos de cabelo."
-  },
-  {
-    "id": "13",
-    "nomeProduto": "Creme dental",
-    "precoProduto": "4.20",
-    "precoProdutoDesconto": "3.50",
-    "descricaoProduto": "Creme dental com flúor para proteção e branqueamento dos dentes."
-  },
-  {
-    "id": "14",
-    "nomeProduto": "Barbeador",
-    "precoProduto": "7.00",
-    "precoProdutoDesconto": "5.90",
-    "descricaoProduto": "Barbeador descartável com 3 lâminas para barbear suave."
-  },
-  {
-    "id": "15",
-    "nomeProduto": "Algodão",
-    "precoProduto": "3.00",
-    "precoProdutoDesconto": "2.50",
-    "descricaoProduto": "Pacote de algodão 100% puro para cuidados pessoais."
-  }
-]
-
-}
   ],
- 
-    "produtos": [
-
-      {
+  "produtos": [
+    {
+      "id": "11",
+      "nomeProduto": "Desodorante",
+      "precoProduto": "15.90",
+      "precoProdutoDesconto": "12.90",
+      "descricaoProduto": "Desodorante antitranspirante 48h, fragrância fresca."
+    },
+    {
+      "id": "12",
+      "nomeProduto": "Creme de pentear",
+      "precoProduto": "9.50",
+      "precoProdutoDesconto": "7.99",
+      "descricaoProduto": "Creme de pentear hidratante para todos os tipos de cabelo."
+    },
+    {
+      "id": "13",
+      "nomeProduto": "Creme dental",
+      "precoProduto": "4.20",
+      "precoProdutoDesconto": "3.50",
+      "descricaoProduto": "Creme dental com flúor para proteção e branqueamento dos dentes."
+    },
+    {
+      "id": "14",
+      "nomeProduto": "Barbeador",
+      "precoProduto": "7.00",
+      "precoProdutoDesconto": "5.90",
+      "descricaoProduto": "Barbeador descartável com 3 lâminas para barbear suave."
+    },
+    {
+      "id": "15",
+      "nomeProduto": "Algodão",
+      "precoProduto": "3.00",
+      "precoProdutoDesconto": "2.50",
+      "descricaoProduto": "Pacote de algodão 100% puro para cuidados pessoais."
+    },
+    {
       "id": "1",
       "nomeProduto": "MediCure Max",
       "precoProduto": 19.99,
       "precoProdutoDesconto": 14.99,
       "descricaoProduto": "Para o alívio rápido de dores musculares e tensões. Eficaz em até 10 minutos!"
     },
-
     {
       "id": "2",
       "nomeProduto": "ImunoShield Forte",
@@ -91,7 +79,6 @@
       "precoProdutoDesconto": 24.99,
       "descricaoProduto": "Fortalece o sistema imunológico com a combinação de vitaminas e antioxidantes. Proteção diária!"
     },
-
     {
       "id": "3",
       "nomeProduto": "CalmBreathe",
@@ -99,7 +86,6 @@
       "precoProdutoDesconto": 11.99,
       "descricaoProduto": "Suplemento natural para reduzir o estresse e melhorar a qualidade do sono. Ideal para noites tranquilas!"
     },
-
     {
       "id": "4",
       "nomeProduto": "VitaBoost",
@@ -107,7 +93,6 @@
       "precoProdutoDesconto": 34.99,
       "descricaoProduto": "Multivitamínico completo para energia extra durante o dia. Combate a fadiga com ingredientes naturais."
     },
-    
     {
       "id": "5",
       "nomeProduto": "ClearSinus",
@@ -115,45 +100,40 @@
       "precoProdutoDesconto": 9.99,
       "descricaoProduto": "Descongestionante nasal rápido e eficaz. Alívio imediato para quem sofre de sinusite e alergias."
     },
-
     {
-        "id": "6",
-        "nomeProduto": "Paracetamol 500mg",
-        "precoProduto": 20.00,
-        "precoProdutoDesconto": 15.00,
-        "descricaoProduto": "Analgésico e antitérmico para alívio da dor e febre."
+      "id": "6",
+      "nomeProduto": "Paracetamol 500mg",
+      "precoProduto": 20.00,
+      "precoProdutoDesconto": 15.00,
+      "descricaoProduto": "Analgésico e antitérmico para alívio da dor e febre."
     },
-
     {
-        "id": "7",
-        "nomeProduto": "Nivea Creme Hidratante",
-        "precoProduto": 35.00,
-        "precoProdutoDesconto": 28.00,
-        "descricaoProduto": "Creme hidratante para pele seca, proporcionando suavidade e proteção."
+      "id": "7",
+      "nomeProduto": "Nivea Creme Hidratante",
+      "precoProduto": 35.00,
+      "precoProdutoDesconto": 28.00,
+      "descricaoProduto": "Creme hidratante para pele seca, proporcionando suavidade e proteção."
     },
-
     {
-        "id": "8",
-        "nomeProduto": "Dipirona 1g",
-        "precoProduto": 18.00,
-        "precoProdutoDesconto": 12.00,
-        "descricaoProduto": "Anaçgésico e antiprético indicado para dores e febres."
+      "id": "8",
+      "nomeProduto": "Dipirona 1g",
+      "precoProduto": 18.00,
+      "precoProdutoDesconto": 12.00,
+      "descricaoProduto": "Anaçgésico e antiprético indicado para dores e febres."
     },
-
     {
-        "id": "9",
-        "nomeProduto": "Protetor Solar FPS 30",
-        "precoProduto": 40.00,
-        "precoProdutoDesconto": 32.00,
-        "descricaoProduto": "Protetor solar para proteção contra os raios UVA e UVB."
+      "id": "9",
+      "nomeProduto": "Protetor Solar FPS 30",
+      "precoProduto": 40.00,
+      "precoProdutoDesconto": 32.00,
+      "descricaoProduto": "Protetor solar para proteção contra os raios UVA e UVB."
     },
-
     {
-        "id": "10",
-        "nomeProduto": "Solução Antisséptica",
-        "precoProduto": 25.00,
-        "precoProdutoDesconto": 20.00,
-        "descricaoProduto": "Uso tópico para limpeza e desinfecção de ferimentos."
+      "id": "10",
+      "nomeProduto": "Solução Antisséptica",
+      "precoProduto": 25.00,
+      "precoProdutoDesconto": 20.00,
+      "descricaoProduto": "Uso tópico para limpeza e desinfecção de ferimentos."
     }
   ]
 }
