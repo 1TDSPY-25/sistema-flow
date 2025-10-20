@@ -1,22 +1,11 @@
-import { useState } from 'react'
-
-
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Cabecalho } from "./Components/Cabecalho/Cabecalho";
+import { Rodape } from "./Components/Rodape/Rodape";
+import Home from "./routes/Home/Index";
+import Login from "./routes/Login/Index";
 function App() {
-  const [count, setCount] = useState(0)
 
-  return (
-    <>
-      <h1>Vite + React</h1>
-      <div>
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-      </div>
-      <p>
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
-  )
+  
 }
 
 export default App
