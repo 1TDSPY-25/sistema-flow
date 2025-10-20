@@ -1,46 +1,71 @@
-# FEATURES LIST:
+# 🚀 Projeto Front-End — Equipe de Desenvolvimento
 
-## Todas as TAREFAS/FEATURES devem ser finalizadas.
-## Prestar atenção ao <span style="color:red">DEADLINE</span> das FEATURES. 
-## RESPONSABILIDADES:
-### MENTORIA: PROF.ALEXANDRE
-### TECLEAD: CAMILO
-### HOMOLOGAÇÃO: [ PHIETRO / MATHEUS / BRENO ]
+### 👨‍🏫 **Mentoria:** Prof. Alexandre  
+### 💻 **Tech Lead:** Camilo  
+### 🧩 **Homologação:** Phietro • Matheus • Breno  
 
 ---
-## IMPLEMENTADOS:
-<ul style="color:green">
-<li>[ X ] FEATURE / Criar o projeto (VITE+REACT+TS) do zero / prof.Alexandre </li>
-<li>[ X ] FEATURE / Realizar a lista de tarefas no README.md / prof.Alexandre </li>
-<li>[ X ] FEATURE / Criar os componentes principais dentro dos padrões estabelecidos com nomes e pastas Cabecalho[Menu], Rodape e Menu /  GuilhermeS - LucasG - Geovanne  </li>
-<li>[ X ] FEATURE / Limpar o boiler-plate e instalar os pacotes react-router-dom, tailwindcss, json-server, react-icons, react-use-form/ Pamella - Camilo - Matsubara </li> 
-<li>[ X ] FEATURE / Criar estrutura de rotas e registrar estas rotas no main, lembrar os dev do menu de quais rotas devem criar, as rotas inicias devem ser: Home, Login e Cadastro. /  João Semente - RodrigoT - Christian </li>
-<li>[ X ] FEATURE / Criar componente de Login(Criar formulário, com validação de useForms, estilizado) / Nicolas - GustavoBarrios - Vinicius    </li>
-	<li> ...</li>
-</ul>
+
+## 🧠 Visão Geral  
+Este projeto está sendo desenvolvido **em equipe**, com foco em **colaboração, aprendizado e entrega de qualidade**.  
+Cada integrante tem um papel fundamental no sucesso do time, então vamos manter **a comunicação aberta, cumprir os prazos e ajudar uns aos outros! 💪**
 
 ---
-## EM HOMOLOGAÇÃO:[ PHIETRO / MATHEUS / BRENO ]
-<ul style="color:orange">
 
-
-<li>[   ] FEATURE / Criar uma api com json-server(criar o arquivo db.json, configurar o package.json), criar o endpoint de nome usuarios, os dados do endpoint são [id,nome,nomeUser,email,avatar]/  Cleidy - Yuri - Vendrameto - Rafael </li><span style="color:red">DEADLINE [22:40]</span>
-   <li> ...</li>
-</ul>
+## 📅 **IMPORTANTE**
+- Todas as **features/tarefas** devem ser **finalizadas** ✅  
+- Atenção aos **⏰ DEADLINES** definidos!  
+- Mantenha o código **organizado e padronizado**, conforme combinado.
 
 ---
-## EM DESENVOLVIMENTO:
-<ul style="color:yellow">
 
-<li>[   ] FEATURE / Criar o Global.CSS para fazer a estilização do site / [GuilhermeS - LucasG - Geovanne]</li>
-<li>[   ] FEATURE / Criação de conteúdo dinâmico na Home - sistema de notícias(Colocar uma api publica trocando cards de noticias)Peguem exemplos em sites como UOL, TERRA e MSN /  Pamella - Camilo - Matsubara   </li>
-<li>[   ] FEATURE / Criar componente de Cadastro (Criar formulário, com validação de useForms, estilizado)/  GuilhermeS - LucasG - Geovanne </li>
-<li>[   ] FEATURE / Criar o codigo do Cabeçalho utilizando de referência a imagem dentro do asserts / [ Wiclif, Gabriel Ambrosio, Paulo] </li>
-<li>[   ] FEATURE / Criar os produtos no arquivo db.json para serem utilizados no nosso site / []</li>
-<li>[   ] FEATURE / Criar uma página aonde ira carregar os dados dos produtos e se conseguir quando clicar em compra aparecer mais 1 no carrinho usar de referencia a imagem referencia_aparecer_produtos / []</li>
-</ul>
+## ✅ **FEATURES IMPLEMENTADAS**
 
+<details open>
+<summary><b>Concluídas com sucesso 🟢</b></summary>
 
-### TEAM FREE
-- [Nicolas - GustavoBarrios - Vinicius]
+- [x] **Criar o projeto (Vite + React + TS)** — *Prof. Alexandre*  
+- [x] **Elaborar a lista de tarefas no README.md** — *Prof. Alexandre*  
+- [x] **Criar componentes principais** (`Cabecalho`, `Rodape`, `Menu`) — *Guilherme S. • Lucas G. • Geovanne*  
+- [x] **Limpeza do boilerplate e instalação dos pacotes:**  
+  `react-router-dom`, `tailwindcss`, `json-server`, `react-icons`, `react-use-form` — *Pamella • Camilo • Matsubara*  
+- [x] **Estrutura de rotas** (`Home`, `Login`, `Cadastro`) — *João Semente • Rodrigo T. • Christian*  
+- [x] **Componente de Login** (formulário validado com `useForms`, estilizado) — *Nicolas • Gustavo Barrios • Vinicius*  
 
+</details>
+
+---
+
+## 🧪 **EM HOMOLOGAÇÃO** — *(Phietro • Matheus • Breno)*
+
+<details>
+<summary><b>Verificando qualidade e funcionamento 🟠</b></summary>
+
+- [ ] **API com json-server**  
+  Criar `db.json` + endpoint `/usuarios` com dados:  
+  `[id, nome, nomeUser, email, avatar]` — *Cleidy • Yuri • Vendrameto • Rafael*  
+  ⏰ **Deadline:** 22:40  
+
+</details>
+
+---
+
+## ⚙️ **EM DESENVOLVIMENTO**
+
+<details>
+<summary><b>Trabalhando com foco e colaboração 🟡</b></summary>
+
+- [ ] **Global.css** — *Guilherme S. • Lucas G. • Geovanne*  
+- [ ] **Home dinâmica:** sistema de notícias com API pública (ex: UOL, TERRA, MSN) — *Pamella • Camilo • Matsubara*  
+- [ ] **Componente de Cadastro** (formulário com validação `useForms`) — *Guilherme S. • Lucas G. • Geovanne*  
+- [ ] **Cabeçalho com base em referência visual (asserts)** — *Wiclif • Gabriel Ambrosio • Paulo*  
+- [ ] **Produtos no `db.json`** — *(a definir)*  
+- [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *(a definir)*  
+
+</details>
+
+---
+
+## 🧑‍🤝‍🧑 **EQUIPE FREE**
+Integrantes disponíveis para suporte e alocação em novas demandas:  
+**Nicolas • Gustavo Barrios • Vinicius**
