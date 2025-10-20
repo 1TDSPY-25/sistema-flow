@@ -73,4 +73,4 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
 Integrantes disponíveis para suporte e alocação em novas demandas:  
 
--Guilherme S. • Lucas G. • Geovanne*  
+-Guilherme S. • Lucas G. • Geovanne* 
