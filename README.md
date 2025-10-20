@@ -63,6 +63,8 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *Cleidy • Yuri • Vendrameto • Rafael* 
 - [ ] **Pop de cadastro:** Exibir as funções para entrar com o usuario, utilizando de refêrencia a imagem de cadastro refêrencia — *João Vitor Santana • Felipe Ribeiro * 
 - [ ] **App:** Criar as rotas no app, para navegar pelo site — *João Semente • Rodrigo T. • Christian* 
+- [ ] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
+
 
 </details>
 
