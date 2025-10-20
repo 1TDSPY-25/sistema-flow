@@ -60,7 +60,8 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Componente de Cadastro** (formulário com validação `useForms`) — *Guilherme S. • Lucas G. • Geovanne*  
 - [ ] **Cabeçalho com base em referência visual (asserts)** — *Wiclif • Gabriel Ambrosio • Paulo*  
 - [ ] **Produtos no `db.json`** — *Nicolas • Gustavo Barrios • Vinicius*
-- [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *(a definir)*  
+- [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *(a definir)*
+- [ ] **Pop de cadastro:** Exibir as funções para entrar com o usuario, utilizando de refêrencia a imagem de cadastro refêrencia — *(a definir)*  
 
 </details>
 
