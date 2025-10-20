@@ -5,8 +5,9 @@ import * as path from 'path' // 1. Importe o módulo 'path' do Node.js
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: "/sistema-flow/",
   plugins: [
-    react(), 
+    react(),
     tailwindcss()
   ],
   resolve: { // 2. Adicione a propriedade 'resolve'
