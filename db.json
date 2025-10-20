@@ -1,14 +1,14 @@
 {
    "usuarios": [
     {
-      "id": 1,
+      "id": "1",
       "nome": "Ana",
       "nomeUser": "ana",
       "email": "ana@email.com",
       "avatar": "https://static.vecteezy.com/ti/vetor-gratis/p1/2592210-personagem-avatar-menina-aluna-gratis-vetor.jpg"
     },
     {
-      "id": 2,
+      "id": "2",
       "nome": "Carina",
       "nomeUser": "carina",
       "email": "carina@email.com",
@@ -17,7 +17,7 @@
     },
 
     {
-      "id": 3,
+      "id": "3",
       "nome": "Juninho",
       "nomeUser": "junihno",
       "email": "juninho@email.com",
@@ -26,12 +26,54 @@
     },
 
     {
-      "id": 4,
+      "id": "4",
       "nome": "Cleber",
       "nomeUser": "cleber",
       "email": "cleber@email.com",
       "avatar": "https://static.vecteezy.com/system/resources/previews/024/183/535/original/male-avatar-portrait-of-a-young-man-with-glasses-illustration-of-male-character-in-modern-color-style-vector.jpg"
       
     }
-]
+],
+ 
+
+  "produtos": [
+
+    {
+      "id": "1",
+      "nomeProduto": "",
+      "precoProduto": 1,
+      "precoProdutoDesconto": 1 ,
+      "descricaoProduto": ""
+      },
+    {
+      "id": "2",
+      "nomeProduto": "",
+      "precoProduto": 1,
+      "precoProdutoDesconto": 1,
+      "descricaoProduto": ""
+      },
+    {
+      "id": "3",
+      "nomeProduto": "",
+      "precoProduto": 1,
+      "precoProdutoDesconto": 1,
+      "descricaoProduto": ""
+      },
+    {
+      "id": "4",
+      "nomeProduto": "",
+      "precoProduto": 1,
+      "precoProdutoDesconto": 1,
+      "descricaoProduto": ""
+      },
+    {
+      "id": "5",
+      "nomeProduto": "",
+      "precoProduto": 1,
+      "precoProdutoDesconto": 1,
+      "descricaoProduto": ""
+      }
+
+  ]
+
 }
