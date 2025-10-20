@@ -9,7 +9,7 @@ export default function Login() {
   } = useForm<Login>();
 
   const onSubmit = (data: Login) => {
-    alert("Login enviado!");
+    alert("Login enviado!"+data);
   };
 
   return (
