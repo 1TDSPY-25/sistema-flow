@@ -2,7 +2,8 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.tsx'
 import "../globals.css"
-import { createBrowserRouter } from 'react-router-dom'
+
+import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Home from './routes/Home/Index.tsx'
 import Cadastro from './routes/Cadastro/Index.tsx'
 import Error from './routes/Error/Index.tsx'
@@ -23,3 +24,9 @@ const router = createBrowserRouter([
     ]     
   }
 ])
+
+createRoot(document.getElementById('root')!).render(
+  <StrictMode>
+    <RouterProvider router={router} />
+  </StrictMode>,
+)
