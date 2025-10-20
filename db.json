@@ -30,41 +30,7 @@
     }
   ],
   "produtos": [
-    {
-      "id": "11",
-      "nomeProduto": "Desodorante",
-      "precoProduto": "15.90",
-      "precoProdutoDesconto": "12.90",
-      "descricaoProduto": "Desodorante antitranspirante 48h, fragrância fresca."
-    },
-    {
-      "id": "12",
-      "nomeProduto": "Creme de pentear",
-      "precoProduto": "9.50",
-      "precoProdutoDesconto": "7.99",
-      "descricaoProduto": "Creme de pentear hidratante para todos os tipos de cabelo."
-    },
-    {
-      "id": "13",
-      "nomeProduto": "Creme dental",
-      "precoProduto": "4.20",
-      "precoProdutoDesconto": "3.50",
-      "descricaoProduto": "Creme dental com flúor para proteção e branqueamento dos dentes."
-    },
-    {
-      "id": "14",
-      "nomeProduto": "Barbeador",
-      "precoProduto": "7.00",
-      "precoProdutoDesconto": "5.90",
-      "descricaoProduto": "Barbeador descartável com 3 lâminas para barbear suave."
-    },
-    {
-      "id": "15",
-      "nomeProduto": "Algodão",
-      "precoProduto": "3.00",
-      "precoProdutoDesconto": "2.50",
-      "descricaoProduto": "Pacote de algodão 100% puro para cuidados pessoais."
-    },
+    
     {
       "id": "1",
       "nomeProduto": "MediCure Max",
@@ -134,6 +100,41 @@
       "precoProduto": 25.00,
       "precoProdutoDesconto": 20.00,
       "descricaoProduto": "Uso tópico para limpeza e desinfecção de ferimentos."
+    },
+    {
+      "id": "11",
+      "nomeProduto": "Desodorante",
+      "precoProduto": "15.90",
+      "precoProdutoDesconto": "12.90",
+      "descricaoProduto": "Desodorante antitranspirante 48h, fragrância fresca."
+    },
+    {
+      "id": "12",
+      "nomeProduto": "Creme de pentear",
+      "precoProduto": "9.50",
+      "precoProdutoDesconto": "7.99",
+      "descricaoProduto": "Creme de pentear hidratante para todos os tipos de cabelo."
+    },
+    {
+      "id": "13",
+      "nomeProduto": "Creme dental",
+      "precoProduto": "4.20",
+      "precoProdutoDesconto": "3.50",
+      "descricaoProduto": "Creme dental com flúor para proteção e branqueamento dos dentes."
+    },
+    {
+      "id": "14",
+      "nomeProduto": "Barbeador",
+      "precoProduto": "7.00",
+      "precoProdutoDesconto": "5.90",
+      "descricaoProduto": "Barbeador descartável com 3 lâminas para barbear suave."
+    },
+    {
+      "id": "15",
+      "nomeProduto": "Algodão",
+      "precoProduto": "3.00",
+      "precoProdutoDesconto": "2.50",
+      "descricaoProduto": "Pacote de algodão 100% puro para cuidados pessoais."
     }
   ]
 }
