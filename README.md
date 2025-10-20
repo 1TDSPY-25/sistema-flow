@@ -31,6 +31,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
   `react-router-dom`, `tailwindcss`, `json-server`, `react-icons`, `react-use-form` — *Pamella • Camilo • Matsubara*  
 - [x] **Estrutura de rotas** (`Home`, `Login`, `Cadastro`) — *João Semente • Rodrigo T. • Christian*  
 - [x] **Componente de Login** (formulário validado com `useForms`, estilizado) — *Nicolas • Gustavo Barrios • Vinicius*  
+- [X] **Componente de Cadastro** (formulário com validação `useForms`) — *Guilherme S. • Lucas G. • Geovanne*  
 
 </details>
 
@@ -57,7 +58,6 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 
 - [ ] **Global.css** — *Guilherme S. • Lucas G. • Geovanne*  
 - [ ] **Home dinâmica:** sistema de notícias com API pública (ex: UOL, TERRA, MSN) — *Pamella • Camilo • Matsubara*  
-- [ ] **Componente de Cadastro** (formulário com validação `useForms`) — *Guilherme S. • Lucas G. • Geovanne*  
 - [ ] **Cabeçalho com base em referência visual (asserts)** — *Wiclif • Gabriel Ambrosio • Paulo*  
 - [ ] **Produtos no `db.json`** — *Nicolas • Gustavo Barrios • Vinicius*
 - [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *Cleidy • Yuri • Vendrameto • Rafael* 
@@ -72,3 +72,5 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
 Integrantes disponíveis para suporte e alocação em novas demandas:  
+
+-Guilherme S. • Lucas G. • Geovanne*  
