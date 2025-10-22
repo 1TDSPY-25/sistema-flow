@@ -2,7 +2,7 @@
 
 ### 👨‍🏫 **Mentoria:** Prof. Alexandre  
 ### 💻 **Tech Lead:** Camilo  
-### 🧩 **Homologação:** Phietro • Matheus • Breno  
+### 🧩 **Homologação:** Phietro • Matheus 
 
 ---
 
@@ -31,12 +31,15 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
   `react-router-dom`, `tailwindcss`, `json-server`, `react-icons`, `react-use-form` — *Pamella • Camilo • Matsubara*  
 - [x] **Estrutura de rotas** (`Home`, `Login`, `Cadastro`) — *João Semente • Rodrigo T. • Christian*  
 - [x] **Componente de Login** (formulário validado com `useForms`, estilizado) — *Nicolas • Gustavo Barrios • Vinicius*  
-
+- [X] **Componente de Cadastro** (formulário com validação `useForms`) — *Guilherme S. • Lucas G. • Geovanne*  
+- [X] **Home dinâmica:** sistema de notícias com API pública (ex: UOL, TERRA, MSN) — *Pamella • Camilo • Matsubara*  
+- [X] **Produtos no `db.json`** — *Nicolas • Gustavo Barrios • Vinicius*
+- [X] **Global.css** — *Guilherme S. • Lucas G. • Geovanne*  
 </details>
 
 ---
 
-## 🧪 **EM HOMOLOGAÇÃO** — *(Phietro • Matheus • Breno)*
+## 🧪 **EM HOMOLOGAÇÃO** — *(Phietro • Matheus )*
 
 <details>
 <summary><b>Verificando qualidade e funcionamento 🟠</b></summary>
@@ -55,12 +58,13 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 <details>
 <summary><b>Trabalhando com foco e colaboração 🟡</b></summary>
 
-- [ ] **Global.css** — *Guilherme S. • Lucas G. • Geovanne*  
-- [ ] **Home dinâmica:** sistema de notícias com API pública (ex: UOL, TERRA, MSN) — *Pamella • Camilo • Matsubara*  
-- [ ] **Componente de Cadastro** (formulário com validação `useForms`) — *Guilherme S. • Lucas G. • Geovanne*  
 - [ ] **Cabeçalho com base em referência visual (asserts)** — *Wiclif • Gabriel Ambrosio • Paulo*  
-- [ ] **Produtos no `db.json`** — *Nicolas • Gustavo Barrios • Vinicius*
-- [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *(a definir)*  
+- [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *Cleidy • Yuri • Vendrameto • Rafael* 
+- [ ] **Pop de cadastro:** Exibir as funções para entrar com o usuario, utilizando de refêrencia a imagem de cadastro refêrencia — *João Vitor Santana • Felipe Ribeiro * 
+- [ ] **App:** Criar as rotas no app, para navegar pelo site — *João Semente • Rodrigo T. • Christian* 
+- [ ] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
+- [ ] **Estilização:** Estilizar a rotas ERROR e colocar no global cores primarias para serer utilizadas — *Pamella • Camilo • Matsubara* 
+
 
 </details>
 
@@ -68,3 +72,5 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
 Integrantes disponíveis para suporte e alocação em novas demandas:  
+
+- *Nicolas • Gustavo Barrios • Vinicius*

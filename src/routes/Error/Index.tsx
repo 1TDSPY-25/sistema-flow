@@ -1,4 +1,4 @@
-export default function Erorr(){
+export default function Error(){
 
     document.title = "Error";
 
