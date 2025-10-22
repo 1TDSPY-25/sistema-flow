@@ -1,4 +1,4 @@
-import { StrictMode } from 'react'
+import { StrictMode, Suspense } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.tsx'
 import "../globals.css"
@@ -21,6 +21,8 @@ const router = createBrowserRouter([
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <RouterProvider router={router} />
+    <Suspense fallback={<div>Carregando...</div>}>
+      <RouterProvider router={router} />
+    </Suspense>
   </StrictMode>,
 )
