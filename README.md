@@ -64,7 +64,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **App:** Criar as rotas no app, para navegar pelo site — *João Semente • Rodrigo T. • Christian* 
 - [ ] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
 - [ ] **Estilização:** Estilizar a rotas ERROR e colocar no global cores primarias para serer utilizadas — *Pamella • Camilo • Matsubara* 
-
+- [ ] **APP:** Colocar as estrturas no APP.tsx — *Nicolas • Gustavo Barrios • Vinicius*
 
 </details>
 
@@ -73,4 +73,3 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
 Integrantes disponíveis para suporte e alocação em novas demandas:  
 
-- *Nicolas • Gustavo Barrios • Vinicius*
