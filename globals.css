@@ -25,3 +25,13 @@
 .light-theme {
     @apply bg-white text-black;
 }
+
+.menu{
+    @apply flex p-4 bg-blue-600 text-white w-[30%] h-12 justify-evenly items-center text-2xl rounded-2xl;   
+    a {
+        @apply block mr-4 no-underline text-white p-2 transition duration-350;
+        &:hover {
+            @apply bg-amber-50 text-blue-600 rounded-lg p-2;
+        }
+    }
+}   
