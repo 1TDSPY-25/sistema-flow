@@ -1,6 +1,6 @@
 export default function Cadastro(){
 
-    document.title = "Cadastro";
+    document.title = "Realize seu cadastro";
 
     return(
     <main>

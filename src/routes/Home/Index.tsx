@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
+document.title = "Bem-vindo! Farmácia Flow";
+
 // Dados fictícios para a seção de mais vendidos
 const bestSellers = [
   {

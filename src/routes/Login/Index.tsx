@@ -3,6 +3,9 @@ import type { LoginType } from "@/types/loginType";
 import { useForm } from "react-hook-form";
 
 export default function Login() {
+
+  document.title = "Faça seu login";
+
   const {
     register,
     handleSubmit,
