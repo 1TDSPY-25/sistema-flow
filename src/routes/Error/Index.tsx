@@ -1,6 +1,6 @@
 // Error.tsx
 import React from 'react';
-
+import "../../globals.css";
 
 const Error: React.FC = () => {
 
