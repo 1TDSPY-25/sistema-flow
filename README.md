@@ -78,7 +78,6 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
 Integrantes disponíveis para suporte e alocação em novas demandas:
-- *João Semente • Rodrigo T. • Christian*
 - *Nicolas • Gustavo Barrios • Vinicius*
 
 
