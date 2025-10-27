@@ -4,6 +4,21 @@
     scroll-behavior: smooth;
 }
 
+@layer base {
+  :root {
+    --cor-primaria: #005;
+    --cor-secundaria: #ff0117;
+    --cor-texto-principal: #000;
+    --cor-texto-secundario: #fff;
+    --cor-texto-destaque: #ffff28;
+    --cor-link: #3198ff;
+    --cor-fundo-body: #f0f8ff;
+    --cor-fundo-primario: #0089
+
+  }
+}
+
+
 * {
     margin: 0;
     padding: 0;
