@@ -4,14 +4,14 @@ import App from "./App.tsx";
 import "../globals.css";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Home from "./routes/Home/index.tsx";
+import Home from "./routes/Home/Index.tsx";
 
 
 import { ThemeProvider } from "./context/ThemeContext.tsx";
-import Error from "./routes/Error/index.tsx";
+import Error from "./routes/Error/Index.tsx";
 
-import Cadastro from "./routes/Cadastro/index.tsx";
-import Login from "./routes/Login/index.tsx";
+import Cadastro from "./routes/Cadastro/Index.tsx";
+import Login from "./routes/Login/Index.tsx";
 
 const router = createBrowserRouter(
   [
