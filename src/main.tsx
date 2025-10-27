@@ -9,9 +9,10 @@ import Home from "./routes/Home/index.tsx";
 
 import { ThemeProvider } from "./context/ThemeContext.tsx";
 import Error from "./routes/Error/index.tsx";
-
-import Cadastro from "./routes/Cadastro/index.tsx";
 import Login from "./routes/Login/index.tsx";
+import Cadastro from "./routes/Cadastro/index.tsx";
+
+
 
 const router = createBrowserRouter(
   [
