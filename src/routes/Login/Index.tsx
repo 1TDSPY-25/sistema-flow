@@ -1,14 +1,15 @@
+
+import type { LoginType } from "@/types/loginType";
 import { useForm } from "react-hook-form";
-import { type Login } from "../../types/Login";
 
 export default function Login() {
   const {
     register,
     handleSubmit,
     formState: { errors },
-  } = useForm<Login>();
+  } = useForm<LoginType>();
 
-  const onSubmit = (data: Login) => {
+  const onSubmit = (data: LoginType) => {
     alert("Login enviado!"+data);
   };
 
