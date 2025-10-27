@@ -1,6 +1,6 @@
 // Error.tsx
 import React from 'react';
-import '../;
+
 
 const Error: React.FC = () => {
 
@@ -9,7 +9,7 @@ const Error: React.FC = () => {
     return(
         <main className="error-container"> 
             <h1 className="error-code">404</h1> 
-            <p className="error-message">Página não encontrada.</p> {/* Mensagem simplificada */}
+            <p className="error-message">Página não encontrada.</p> {/* Mensagem simplificada. */}
             <a href="/" className="home-link">Voltar para o Início</a> 
         </main>
     );

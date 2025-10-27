@@ -22,7 +22,7 @@ const NewsCard: React.FC<{ article: Article }> = ({ article }) => {
       marginBottom: '20px',
       boxShadow: '0 2px 4px rgba(0,0,0,0.1)'
     }}>
-      {/* Imagem, com fallback caso a URL seja nula */}
+      {/* Imagem, com fallback caso a URL seja nula. */}
       {article.urlToImage && (
         <img 
           src={article.urlToImage} 

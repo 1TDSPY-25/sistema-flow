@@ -29,7 +29,7 @@ export default function Login() {
               placeholder="seu@email.com"
               className="w-full rounded-md border border-input bg-background px-3 py-2 text-sm"
               {...register("email", {
-                required: "Email é obrigatório",
+                required: "Email é obrigatório.",
                 pattern: {
                   value: /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i,
                   message: "Email que você digitou é inválido"
