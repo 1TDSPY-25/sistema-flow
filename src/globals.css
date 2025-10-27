@@ -59,3 +59,36 @@
         }
     }
 }   
+
+/* Estilização para o componente Error */
+.error-container {
+    @apply flex flex-col items-center justify-center h-screen text-center p-4;
+}
+
+.error-code {
+    font-size: 8em;
+    font-weight: 700;
+    color: var(--cor-secundaria);
+    @apply mb-4; 
+    @apply drop-shadow-lg; 
+}
+
+.error-message {
+    font-size: 1.5em;
+    color: var(--cor-texto-principal);
+    @apply mb-10; 
+}
+
+.home-link {
+    background-color: var(--cor-link);
+    color: var(--cor-texto-secundario);
+    @apply inline-block px-6 py-3 no-underline rounded-lg font-semibold transition duration-300;
+}
+
+.home-link:hover {
+    @apply bg-opacity-90 shadow-md;
+}
+
+.dark-theme .error-message {
+    color: var(--cor-texto-secundario); 
+}
