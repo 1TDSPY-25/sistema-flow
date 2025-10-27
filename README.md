@@ -68,7 +68,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Estilização:** Estilizar a rotas ERROR e colocar no global cores primarias para serer utilizadas — *Pamella • Camilo • Matsubara* 
 - [ ] **Rodapé** Criar o codigo do rodapé utilizando de referência a imagem dentro do assets - *João Semente • Rodrigo T. • Christian*
 - [ ] **Estilização:** Estilizar a rotas CADASTRO e LOGIN — *Cleidy • Yuri • Vendrameto • Rafael*
-- [ ] **Estilização:** Estilizar o rodapé conforme a imagem do asserts — (Nenhuma Equipe)
+- [ ] **Estilização:** Estilizar o rodapé conforme a imagem do asserts — *Nicolas • Gustavo Barrios • Vinicius*
 - [ ] **Estilização:** Estilizar o cabeçalho conforme a imagem do asserts — (Nenhuma Equipe)
 
 
@@ -78,6 +78,6 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
 Integrantes disponíveis para suporte e alocação em novas demandas:
-- *Nicolas • Gustavo Barrios • Vinicius*
+
 
 
