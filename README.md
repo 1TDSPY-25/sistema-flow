@@ -68,6 +68,8 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Rodapé** Criar o codigo do rodapé utilizando de referência a imagem dentro do assets - *João Semente • Rodrigo T. • Christian*
 - [ ] **Rodapé e cabeçalho** Criar a estilização do rodapé e do cabeçalho - *Nicolas • Gustavo Barrios • Vinicius*
 - [ ] **Estilização:** Estilizar a rotas CADASTRO e LOGIN — *Cleidy • Yuri • Vendrameto • Rafael*
+- [ ] **Estilização:** Estilizar o rodapé conforme a imagem do asserts — (Nenhuma Equipe)
+
 
 
 </details>
