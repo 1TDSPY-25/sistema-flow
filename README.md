@@ -36,19 +36,20 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [X] **Produtos no `db.json`** — *Nicolas • Gustavo Barrios • Vinicius*
 - [X] **Global.css** — *Guilherme S. • Lucas G. • Geovanne*  
 - [X] **App:** Criar as rotas no app, para navegar pelo site — *João Semente • Rodrigo T. • Christian* 
+- [X] **API com json-server** Criar `db.json` + endpoint `/usuarios` com dados: `[id, nome, nomeUser, email, avatar]` — *Cleidy • Yuri • Vendrameto • Rafael* 
+- [X] **APP:** Colocar as estruturas no APP.tsx — *Nicolas • Gustavo Barrios • Vinicius*
+  [X] **Menu** Criar o código do menu - *João Semente • Rodrigo T. • Christian* 
 </details>
 
 ---
 
-## 🧪 **EM HOMOLOGAÇÃO** — *(Phietro • Matheus )*
+## 🧪 **EM HOMOLOGAÇÃO** — *(Phietro • Matheus • Breno )*
 
 <details>
 <summary><b>Verificando qualidade e funcionamento 🟠</b></summary>
 
-- [ ] **API com json-server**  
-  Criar `db.json` + endpoint `/usuarios` com dados:  
-  `[id, nome, nomeUser, email, avatar]` — *Cleidy • Yuri • Vendrameto • Rafael*  
-  ⏰ **Deadline:** 22:40  
+ 
+
 
 </details>
 
@@ -64,11 +65,11 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Pop de cadastro:** Exibir as funções para entrar com o usuario, utilizando de refêrencia a imagem de cadastro refêrencia — *João Vitor Santana • Felipe Ribeiro * 
 - [ ] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
 - [ ] **Estilização:** Estilizar a rotas ERROR e colocar no global cores primarias para serer utilizadas — *Pamella • Camilo • Matsubara* 
-- [ ] **APP:** Colocar as estruturas no APP.tsx — *Nicolas • Gustavo Barrios • Vinicius*
-- [ ] **Menu** Criar o código do menu - *João Semente • Rodrigo T. • Christian* 
-- [ ] **Rodapé** Criar o codigo do rodapé utilizando de referência a imagem dentro do assets - (Nenhuma equipe)
-- [ ] **Rodapé e cabeçalho** Criar a estilização do rodapé e do cabeçalho - (Nenhuma equipe)
-
+- [ ] **Rodapé** Criar o codigo do rodapé utilizando de referência a imagem dentro do assets - *João Semente • Rodrigo T. • Christian*
+- [ ] **Rodapé e cabeçalho** Criar a estilização do rodapé e do cabeçalho - *Nicolas • Gustavo Barrios • Vinicius*
+- [ ] **Estilização:** Estilizar a rotas CADASTRO e LOGIN — *Cleidy • Yuri • Vendrameto • Rafael*
+- [ ] **Estilização:** Estilizar o rodapé conforme a imagem do asserts — (Nenhuma Equipe)
+- [ ] **Estilização:** Estilizar o cabeçalho conforme a imagem do asserts — (Nenhuma Equipe)
 
 
 </details>
@@ -76,5 +77,8 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 ---
 
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
-Integrantes disponíveis para suporte e alocação em novas demandas:  
+Integrantes disponíveis para suporte e alocação em novas demandas:
+
+
+
 
