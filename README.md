@@ -69,7 +69,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Rodapé e cabeçalho** Criar a estilização do rodapé e do cabeçalho - *Nicolas • Gustavo Barrios • Vinicius*
 - [ ] **Estilização:** Estilizar a rotas CADASTRO e LOGIN — *Cleidy • Yuri • Vendrameto • Rafael*
 - [ ] **Estilização:** Estilizar o rodapé conforme a imagem do asserts — (Nenhuma Equipe)
-
+- [ ] **Estilização:** Estilizar o cabeçalho conforme a imagem do asserts — (Nenhuma Equipe)
 
 
 </details>
