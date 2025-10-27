@@ -9,3 +9,29 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    width: 100vw;
+    height: 100vh;
+}
+
+.dark-theme {
+    @apply bg-gray-900 text-white;
+}
+
+.light-theme {
+    @apply bg-white text-black;
+}
+
+.menu{
+    @apply flex p-4 bg-blue-600 text-white w-[30%] h-12 justify-evenly items-center text-2xl rounded-2xl;   
+    a {
+        @apply block mr-4 no-underline text-white p-2 transition duration-350;
+        &:hover {
+            @apply bg-amber-50 text-blue-600 rounded-lg p-2;
+        }
+    }
+}   

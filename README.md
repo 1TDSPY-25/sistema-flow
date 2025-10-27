@@ -35,6 +35,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [X] **Home dinâmica:** sistema de notícias com API pública (ex: UOL, TERRA, MSN) — *Pamella • Camilo • Matsubara*  
 - [X] **Produtos no `db.json`** — *Nicolas • Gustavo Barrios • Vinicius*
 - [X] **Global.css** — *Guilherme S. • Lucas G. • Geovanne*  
+- [X] **App:** Criar as rotas no app, para navegar pelo site — *João Semente • Rodrigo T. • Christian* 
 </details>
 
 ---
@@ -58,12 +59,16 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 <details>
 <summary><b>Trabalhando com foco e colaboração 🟡</b></summary>
 
-- [ ] **Cabeçalho com base em referência visual (asserts)** — *Wiclif • Gabriel Ambrosio • Paulo*  
+- [ ] **Cabeçalho com base em referência visual (assets)** — *Wiclif • Gabriel Ambrosio • Paulo*  
 - [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *Cleidy • Yuri • Vendrameto • Rafael* 
 - [ ] **Pop de cadastro:** Exibir as funções para entrar com o usuario, utilizando de refêrencia a imagem de cadastro refêrencia — *João Vitor Santana • Felipe Ribeiro * 
-- [ ] **App:** Criar as rotas no app, para navegar pelo site — *João Semente • Rodrigo T. • Christian* 
 - [ ] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
 - [ ] **Estilização:** Estilizar a rotas ERROR e colocar no global cores primarias para serer utilizadas — *Pamella • Camilo • Matsubara* 
+- [ ] **APP:** Colocar as estruturas no APP.tsx — *Nicolas • Gustavo Barrios • Vinicius*
+- [ ] **Menu** Criar o código do menu - *João Semente • Rodrigo T. • Christian* 
+- [ ] **Rodapé** Criar o codigo do rodapé utilizando de referência a imagem dentro do assets - (Nenhuma equipe)
+- [ ] **Rodapé e cabeçalho** Criar a estilização do rodapé e do cabeçalho - (Nenhuma equipe)
+
 
 
 </details>
@@ -73,4 +78,3 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 ## 🧑‍🤝‍🧑 **EQUIPE FREE**
 Integrantes disponíveis para suporte e alocação em novas demandas:  
 
-- *Nicolas • Gustavo Barrios • Vinicius*
