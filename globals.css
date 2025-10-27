@@ -4,6 +4,9 @@
     scroll-behavior: smooth;
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 @layer base {
   :root {
     --cor-primaria: #005;
@@ -13,8 +16,14 @@
     --cor-texto-destaque: #ffff28;
     --cor-link: #3198ff;
     --cor-fundo-body: #f0f8ff;
-    --cor-fundo-primario: #0089
+    --cor-fundo-primario: #0089;
 
+    --font-family-sans: 'Roboto', sans-serif;
+
+  }
+
+  html {
+    font-family: var(--font-family-sans);
   }
 }
 
