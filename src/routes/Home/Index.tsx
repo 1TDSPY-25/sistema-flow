@@ -4,7 +4,7 @@ import type { Article, NewsApiResponse } from '../../types/types';
 
 // Chave da API e URL (SUA CHAVE)
 // ATENÇÃO: Nunca exponha chaves de API em código de produção real.
-// Para este exercício, vamos usá-la diretamente.
+// Para este exercício, vamos usá-la diretamente
 const API_KEY = 'B8B89356F4DD44DBA2879392D85E6962B'; 
 const API_URL = `https://newsapi.org/v2/top-headlines?country=br&pageSize=10&apiKey=${API_KEY}`;
 

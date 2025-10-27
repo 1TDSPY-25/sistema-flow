@@ -1,6 +1,6 @@
 // Error.tsx
 import React from 'react';
-import '../;
+
 
 const Error: React.FC = () => {
 
