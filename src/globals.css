@@ -85,10 +85,6 @@
     @apply inline-block px-6 py-3 no-underline rounded-lg font-semibold transition duration-300;
 }
 
-.home-link:hover {
-    @apply bg-opacity-90 shadow-md;
-}
-
 .dark-theme .error-message {
     color: var(--cor-texto-secundario); 
 }
