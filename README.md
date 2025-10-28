@@ -61,7 +61,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 <details>
 <summary><b>Trabalhando com foco e colaboração 🟡</b></summary>
 
-- [ ] **Cabeçalho com base em referência visual (assets)** — *Wiclif • Gabriel Ambrosio • Paulo*  
+- [ ] **Cabeçalho com base em referência visual (assets)** — *Pamella • Camilo • Matsubara*  
 - [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *Cleidy • Yuri • Vendrameto • Rafael* 
 - [ ] **Pop de cadastro:** Exibir as funções para entrar com o usuario, utilizando de refêrencia a imagem de cadastro refêrencia — *João Vitor Santana • Felipe Ribeiro * 
 - [ ] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
