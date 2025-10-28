@@ -1,60 +1,54 @@
 import neoQuimicaImg from '../../assets/img/rodape/Patrocinadores/neo_quimica.png';
 import pampersImg from '../../assets/img/rodape/Patrocinadores/pampers.png';
 import unileverImg from '../../assets/img/rodape/Patrocinadores/unilever.png';
+import niveaImg from '../../assets/img/rodape/Patrocinadores/nivea.png';
+import zetaImg from '../../assets/img/rodape/Patrocinadores/zeta.png';
+import kenvueImg from '../../assets/img/rodape/Patrocinadores/kenvue.png';
 
 export function Rodape() {
   return (
 
       <>
-      <section className="bg-white py-8 px-4">
+      <section>
         <div className="max-w-screen-xl mx-auto">
-          <h2
-            className="text-2xl font-semibold text-gray-800"
-            style={{ marginBottom: '40px' }}
-          >
+          <h2 className="text-2xl font-semibold text-gray-800" style={{ marginBottom: '40px' }}>
             Marcas <strong>Queridinhas</strong>
           </h2>
 
           <div className="flex flex-wrap justify-center items-center gap-8">
-            <a
-              href="https://www.neoquimica.com.br"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.neoquimica.com.br" target="_blank" rel="noopener noreferrer">
               <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
-                <img
-                  src={neoQuimicaImg}
-                  alt="Neo Química"
-                  className="w-16 h-16 object-contain"
-                />
+                <img src={neoQuimicaImg} alt="Neo Química" className="w-16 h-16 object-contain" />
               </div>
             </a>
 
-            <a
-              href="https://www.pampers.com.br"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.pampers.com.br" target="_blank" rel="noopener noreferrer">
               <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
-                <img
-                  src={pampersImg}
-                  alt="Pampers"
-                  className="w-16 h-16 object-contain"
-                />
+                <img src={pampersImg} alt="Pampers" className="w-16 h-16 object-contain" />
               </div>
             </a>
 
-            <a
-              href="https://www.unilever.com.br"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href="https://www.unilever.com.br" target="_blank" rel="noopener noreferrer">
               <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
-                <img
-                  src={unileverImg}
-                  alt="Unilever"
-                  className="w-16 h-16 object-contain"
-                />
+                <img src={unileverImg} alt="Unilever" className="w-16 h-16 object-contain" />
+              </div>
+            </a>
+
+            <a href="https://www.nivea.com.br" target="_blank" rel="noopener noreferrer">
+              <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
+                <img src={niveaImg} alt="Nivea" className="w-16 h-16 object-contain" />
+              </div>
+            </a>
+
+            <a href="https://www.instagram.com/zetaskin/" target="_blank" rel="noopener noreferrer">
+              <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
+                <img src={zetaImg} alt="Zeta" className="w-16 h-16 object-contain" />
+              </div>
+            </a>
+
+            <a href="https://www.kenvue.com/pt-br/" target="_blank" rel="noopener noreferrer">
+              <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
+                <img src={kenvueImg} alt="Kenvue" className="w-16 h-16 object-contain" />
               </div>
             </a>
           </div>
