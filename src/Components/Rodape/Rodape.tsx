@@ -4,11 +4,13 @@ import unileverImg from '../../assets/img/rodape/Patrocinadores/unilever.png';
 import niveaImg from '../../assets/img/rodape/Patrocinadores/nivea.png';
 import zetaImg from '../../assets/img/rodape/Patrocinadores/zeta.png';
 import kenvueImg from '../../assets/img/rodape/Patrocinadores/kenvue.png';
+import nestleImg from '../../assets/img/rodape/Patrocinadores/nestle.png';
+import borgImg from '../../assets/img/rodape/Patrocinadores/borg.png';
+import cimedImg from '../../assets/img/rodape/Patrocinadores/cimed.png';
 
 export function Rodape() {
   return (
-
-      <>
+    <>
       <section>
         <div className="max-w-screen-xl mx-auto">
           <h2 className="text-2xl font-semibold text-gray-800" style={{ marginBottom: '40px' }}>
@@ -51,6 +53,24 @@ export function Rodape() {
                 <img src={kenvueImg} alt="Kenvue" className="w-16 h-16 object-contain" />
               </div>
             </a>
+
+            <a href="https://www.nestle.com.br" target="_blank" rel="noopener noreferrer">
+              <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
+                <img src={nestleImg} alt="Nestlé" className="w-16 h-16 object-contain" />
+              </div>
+            </a>
+
+            <a href="https://borgsaude.com.br/" target="_blank" rel="noopener noreferrer">
+              <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
+                <img src={borgImg} alt="Borg" className="w-16 h-16 object-contain" />
+              </div>
+            </a>
+
+            <a href="https://cimedremedios.com.br/" target="_blank" rel="noopener noreferrer">
+              <div className="w-24 h-24 bg-purple-200 rounded-full flex items-center justify-center hover:bg-purple-300 transition-colors cursor-pointer">
+                <img src={cimedImg} alt="Cimed" className="w-16 h-16 object-contain" />
+              </div>
+            </a>
           </div>
         </div>
       </section>
@@ -77,6 +97,6 @@ export function Rodape() {
           </ul>
         </div>
       </footer>
-      </>
+    </>
   );
 }
