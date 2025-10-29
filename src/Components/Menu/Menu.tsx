@@ -10,7 +10,6 @@ export function Menu() {
         text-sm font-medium
       "
     >
-      {/* Home */}
       <Link
         to="/"
         className="
@@ -22,7 +21,6 @@ export function Menu() {
         Home
       </Link>
 
-      {/* Cadastro */}
       <Link
         to="/cadastro"
         className="
@@ -34,7 +32,7 @@ export function Menu() {
         Cadastro
       </Link>
 
-      {/* Login */}
+     
       <Link
         to="/login"
         className="

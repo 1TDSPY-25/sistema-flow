@@ -11,7 +11,7 @@ export function Cabecalho() {
       shadow-md w-full px-8 py-3 sticky top-0 z-50 bg-white`}
     >
       <div className="flex items-center justify-between gap-8">
-        {/* 🩺 Logo à esquerda */}
+        
         <div className="flex items-center gap-3 flex-shrink-0">
           <img
             src={logoImage}
@@ -20,12 +20,8 @@ export function Cabecalho() {
           />
         </div>
 
-        {/* 📋 Menu + Busca centralizados */}
         <div className="flex items-center justify-center flex-1 gap-10">
-          {/* Menu */}
           <Menu />
-
-          {/* Barra de pesquisa */}
           <div className="relative flex items-center w-80 md:w-96 border border-red-500 rounded-full overflow-hidden shadow-sm">
             <input
               type="text"
@@ -38,7 +34,6 @@ export function Cabecalho() {
           </div>
         </div>
 
-        {/* 🌙 Botão de tema à direita */}
         <div className="flex items-center">
           <button
             onClick={toggleTheme}
