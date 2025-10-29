@@ -1,5 +1,6 @@
 import React from 'react';
 import { IoClose } from 'react-icons/io5';
+
 interface LoginModalProps {
   onClose: () => void;
   onNavigateToRegister: () => void;
@@ -12,11 +13,17 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
       
       <div className="relative w-full max-w-md rounded-lg bg-white p-6 shadow-xl md:p-8">
         
-        {
+        <button
+          onClick={onClose} 
+          className="" 
+          aria-label="Fechar modal"
+        >
+          <IoClose />
+        </button>
+
         <h2 className="mb-6 text-2xl font-semibold text-gray-800">
           Entrar com e-mail e senha
         </h2>
-}
 
       </div>
 
