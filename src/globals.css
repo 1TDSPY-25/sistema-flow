@@ -88,3 +88,26 @@
 .dark-theme .error-message {
     color: var(--cor-texto-secundario); 
 }
+
+/* Definições básicas do Tailwind (se estiverem faltando) */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* Estilos de Tema */
+.light-theme {
+  background-color: #ffffff; 
+  color: #1f2937; 
+  /* Adicione outras variáveis ou estilos específicos para o tema claro aqui */
+}
+
+.dark-theme {
+  background-color: #1f2937; 
+  color: #f3f4f6; 
+  /* Adicione outras variáveis ou estilos específicos para o tema escuro aqui */
+}
+
+/* Você pode adicionar estilos específicos para links do menu ou componentes que 
+   não são facilmente estilizados apenas com classes utilitárias do Tailwind aqui,
+   mas para este cabeçalho, as classes inline já dão conta do recado.
+*/
