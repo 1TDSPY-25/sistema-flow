@@ -15,7 +15,7 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
         
         <button
           onClick={onClose} 
-          className="" 
+          className="absolute top-4 right-4 text-2xl text-gray-500 hover:text-gray-800"
           aria-label="Fechar modal"
         >
           <IoClose />
