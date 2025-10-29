@@ -8,14 +8,15 @@ interface LoginModalProps {
 export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
   
   return (
-    // Fundo escurecido (overlay)
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
       
-      {/* O card/pop-up principal */}
       <div className="relative w-full max-w-md rounded-lg bg-white p-6 shadow-xl md:p-8">
         
-        {/* O título e o formulário virão aqui dentro */}
-        Eu sou o card branco
+        {
+        <h2 className="mb-6 text-2xl font-semibold text-gray-800">
+          Entrar com e-mail e senha
+        </h2>
+}
 
       </div>
 
