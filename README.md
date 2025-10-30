@@ -70,6 +70,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Estilização:** Estilizar a rotas CADASTRO e LOGIN — *Cleidy • Yuri • Vendrameto • Rafael*
 - [ ] **Estilização:** Estilizar o rodapé conforme a imagem do asserts — *Nicolas • Gustavo Barrios • Vinicius*
 - [ ] **Estilização:** Estilizar o cabeçalho conforme a imagem do asserts — *Guilherme S. • Lucas G. • Geovanne*
+- [ ] **Menu** Adicionar um carrossel com propagandas de produtos do site (Segue de referencia a img no assets)- (Nenhuma equipe)
 
 
 </details>
