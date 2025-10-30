@@ -77,12 +77,11 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
               clique aqui
             </a>
           </p>
-          {}
           <p className="mt-2 text-gray-600">
             Não tem conta?{' '}
             <button
-              onClick={() => {}}
-              className=""
+              onClick={onNavigateToRegister}
+              className="font-semibold text-blue-600 hover:underline"
             >
               Cadastre-se
             </button>
