@@ -11,7 +11,6 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
   const [showPassword, setShowPassword] = useState(false);
 
   return (
-    
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
       
       {}
@@ -51,6 +50,13 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
               className="w-full rounded-md border border-gray-300 p-3 text-gray-700 focus:border-green-500 focus:outline-none focus:ring-1 focus:ring-green-500"
             />
             {}
+            <button
+              type="button"
+              onClick={() => {}} 
+              className="" 
+            >
+              {}
+            </button>
           </div>
 
         </form>
