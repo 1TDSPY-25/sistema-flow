@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { IoClose, IoEyeOutline, IoEyeOffOutline } from 'react-icons/io5';
 
 interface LoginModalProps {
