@@ -40,6 +40,7 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [X] **APP:** Colocar as estruturas no APP.tsx — *Nicolas • Gustavo Barrios • Vinicius*
   [X] **Menu** Criar o código do menu - *João Semente • Rodrigo T. • Christian* 
 - [X] **Rodapé e cabeçalho** Criar a estilização do rodapé e do cabeçalho - *Nicolas • Gustavo Barrios • Vinicius*
+- [X] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
 </details>
 
 ---
@@ -64,12 +65,11 @@ Cada integrante tem um papel fundamental no sucesso do time, então vamos manter
 - [ ] **Cabeçalho com base em referência visual (assets)** — *Pamella • Camilo • Matsubara*  
 - [ ] **Página de produtos:** exibir lista + incrementar carrinho ao clicar em “Comprar” — *Cleidy • Yuri • Vendrameto • Rafael* 
 - [ ] **Pop de cadastro:** Exibir as funções para entrar com o usuario, utilizando de refêrencia a imagem de cadastro refêrencia — *João Vitor Santana • Felipe Ribeiro * 
-- [ ] **Patrocinadores:** Criar uma lista de alguns patrocinadores que temos e colocar no site, utilize de referência a imagem de patrocinadores — *Guilherme S. • Lucas G. • Geovanne*
 - [ ] **Estilização:** Estilizar a rotas ERROR e colocar no global cores primarias para serer utilizadas — *Pamella • Camilo • Matsubara* 
 - [ ] **Rodapé** Criar o codigo do rodapé utilizando de referência a imagem dentro do assets - *João Semente • Rodrigo T. • Christian*
 - [ ] **Estilização:** Estilizar a rotas CADASTRO e LOGIN — *Cleidy • Yuri • Vendrameto • Rafael*
 - [ ] **Estilização:** Estilizar o rodapé conforme a imagem do asserts — *Nicolas • Gustavo Barrios • Vinicius*
-- [ ] **Estilização:** Estilizar o cabeçalho conforme a imagem do asserts — (Nenhuma Equipe)
+- [ ] **Estilização:** Estilizar o cabeçalho conforme a imagem do asserts — *Guilherme S. • Lucas G. • Geovanne*
 
 
 </details>
