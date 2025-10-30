@@ -1,5 +1,5 @@
-import React from 'react';
-import { IoClose } from 'react-icons/io5';
+import React, { useState } from 'react';
+import { IoClose, IoEyeOutline, IoEyeOffOutline } from 'react-icons/io5';
 
 interface LoginModalProps {
   onClose: () => void;
@@ -42,11 +42,10 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
 
           {}
           <div className="relative mb-4"> 
-            {}
             <input
               type="password"
               placeholder="Digite sua senha"
-              className=""
+              className="w-full rounded-md border border-gray-300 p-3 text-gray-700 focus:border-green-500 focus:outline-none focus:ring-1 focus:ring-green-500"
             />
             {}
           </div>
