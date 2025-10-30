@@ -63,7 +63,7 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
           {}
           <button
             type="submit"
-            className=""
+            className="w-full rounded-md bg-green-600 p-3 font-bold text-white transition-colors hover:bg-green-700"
           >
             ENTRAR
           </button>
