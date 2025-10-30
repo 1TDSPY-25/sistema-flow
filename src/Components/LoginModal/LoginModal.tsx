@@ -11,7 +11,7 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
   const [showPassword, setShowPassword] = useState(false);
 
   return (
-    
+
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black bg-opacity-50">
       
       {}
@@ -69,7 +69,17 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
           </button>
           
         </form>
+        
         {}
+        <div className="mt-6 text-center text-sm">
+          <p className="text-gray-600">
+            Esqueceu ou não possui senha?{' '}
+            <a href="#" className=""> {}
+              clique aqui
+            </a>
+          </p>
+          {}
+        </div>
 
       </div>
 
