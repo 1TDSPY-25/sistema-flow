@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { IoClose, IoEyeOutline, IoEyeOffOutline } from 'react-icons/io5';
 
 interface LoginModalProps {
@@ -73,9 +73,14 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
         <div className="mt-6 text-center text-sm">
           <p className="text-gray-600">
             Esqueceu ou não possui senha?{' '}
-            <a href="#" className="font-semibold text-blue-600 hover:underline">
+            {}
+            <button
+              type="button"
+              onClick={() => {}}
+              className="font-semibold text-blue-600 hover:underline"
+            >
               clique aqui
-            </a>
+            </button>
           </p>
           <p className="mt-2 text-gray-600">
             Não tem conta?{' '}
