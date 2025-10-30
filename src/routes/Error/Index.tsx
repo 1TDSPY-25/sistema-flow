@@ -10,7 +10,7 @@ const Error: React.FC = () => {
         <main className="error-container"> 
             <h1 className="error-code">404</h1> 
             <p className="error-message">Página não encontrada.</p> {/* Mensagem simplificada */}
-            <a href="../Home" className="home-link">Voltar para o Início</a> 
+            <a href="/" className="home-link">Voltar para o Início</a> 
         </main>
     );
 };
