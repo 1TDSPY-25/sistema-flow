@@ -73,11 +73,20 @@ export function LoginModal({ onClose, onNavigateToRegister }: LoginModalProps) {
         <div className="mt-6 text-center text-sm">
           <p className="text-gray-600">
             Esqueceu ou não possui senha?{' '}
-            <a href="#" className="font-semibold text-blue-600 hover:underline"> {}
+            <a href="#" className="font-semibold text-blue-600 hover:underline">
               clique aqui
             </a>
           </p>
           {}
+          <p className="mt-2 text-gray-600">
+            Não tem conta?{' '}
+            <button
+              onClick={() => {}}
+              className=""
+            >
+              Cadastre-se
+            </button>
+          </p>
         </div>
 
       </div>
